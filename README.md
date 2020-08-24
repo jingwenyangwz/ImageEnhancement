@@ -1,4 +1,6 @@
 # ImageEnhancement
+Implement Wallis operator, Anisotropic diffusion, Median filter to enhance the images
+
 
 - Part 1: Wallis operator
   - the local mean and local contrast of your image to be forced toward predefined values
